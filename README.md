@@ -21,7 +21,7 @@ A simple REST API built using Python and Flask. This project demonstrates CRUD o
 - [API Endpoints](#api-endpoints)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
